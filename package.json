@@ -1,0 +1,41 @@
+{
+  "name": "vtbfinder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
+    "@react-native-community/masked-view": "^0.1.11",
+    "deprecated-react-native-prop-types": "^5.0.0",
+    "expo": "^49.0.13",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "patch-package": "^8.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-expo-viewport-units": "^0.0.8",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-maps": "https://github.com/react-community/react-native-maps.git",
+    "react-native-open-street-map": "^2.0.1",
+    "react-native-maps": "1.7.1",
+    "react-native-paper": "^5.10.6",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-render-html": "^6.3.4",
+    "react-native-screens": "~3.22.0",
+    "react-native-web": "~0.19.6",
+    "react-native-webview": "13.2.2",
+    "react-native-webview": "^13.6.2",
+    "react-native-yamap": "^4.1.18",
+    "react-navigation": "^5.0.0",
+    "react-navigation-stack": "^2.10.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
